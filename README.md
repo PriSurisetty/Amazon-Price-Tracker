@@ -32,5 +32,3 @@ This Python script tracks the price of a product on Amazon and sends an email al
 - Scrapes the product price from Amazon using BeautifulSoup.
 - Compares the current price with the target price.
 - Sends an email alert if the price is below the target.
-
-

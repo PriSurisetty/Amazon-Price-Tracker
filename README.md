@@ -25,7 +25,6 @@ This Python script tracks the price of a product on Amazon and sends an email al
    - USERNAME=your_email_address
    - PASSWORD=your_email_password
 5. **Run the script with**:
-   '''bash
    python main.py
 
 ## How It Works

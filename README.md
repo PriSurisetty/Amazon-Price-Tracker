@@ -18,13 +18,14 @@ This Python script tracks the price of a product on Amazon and sends an email al
    ```bash
    cd amazon-price-tracker
 3. **Install Required Packages**:
-   '''bash
+   ```bash
    pip install beautifulsoup4 requests
 4. **Set Up Environment Variables**:
    - LINK=your_amazon_product_url
    - USERNAME=your_email_address
    - PASSWORD=your_email_password
 5. **Run the script with**:
+   ```bash
    python main.py
 
 ## How It Works

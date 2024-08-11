@@ -2,6 +2,10 @@
 
 This Python script tracks the price of a product on Amazon and sends an email alert when the price drops below a specified threshold.
 
+
+![image](https://github.com/user-attachments/assets/8c167f8f-7409-4385-b205-87ef22e5e288)
+
+
 ## Features
 
 - **Price Monitoring**: Checks the price of an Amazon product.
